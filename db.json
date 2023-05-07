@@ -1,0 +1,112 @@
+{
+  "seller": [
+    {
+      "name": "seller",
+      "password": "password",
+      "email": "seller@gmail.com",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "SHFIGUARTS SPIDER MAN TOBEY",
+      "price": "89",
+      "color": "red",
+      "category": "SHF",
+      "description": "Người nhện Tobey peter 2",
+      "image": "https://www.kapowtoys.es/uploads/2022/08/tobey2.jpeg",
+      "id": 1
+    },
+    {
+      "name": "SHFIGUARTS THE AMAZING SPIDER MAN",
+      "price": "91",
+      "color": "red",
+      "category": "SHF",
+      "description": "Người nhện siêu đẳng peter 3",
+      "image": "https://m.media-amazon.com/images/I/41BcH6FFriL.jpg",
+      "id": 2
+    },
+    {
+      "name": "MAFEX DOCTOR STRANGE INFINITY WAR",
+      "price": "102",
+      "color": "RED",
+      "category": "MAFEX",
+      "description": "Phù Thủy Tối Thượng INFINITY WAR",
+      "image": "https://cdn.shopify.com/s/files/1/0270/4221/8045/products/medmafex-152_10_800x.jpg?v=1611418615",
+      "id": 4
+    },
+    {
+      "name": "SHFIGUARTS VENOM MOVIE",
+      "price": "85",
+      "color": "BLACK",
+      "category": "SHF",
+      "description": "Nộc Độc movie",
+      "image": "https://m.media-amazon.com/images/I/71glyhq5OQL.jpg",
+      "id": 5
+    },
+    {
+      "name": "MAFEX CAPTAIN WINTER SOLDIER",
+      "price": "81",
+      "color": "blue",
+      "category": "MAFEX ",
+      "description": "CAPTAIN WINTER SOLDIER",
+      "image": "https://media3.nin-nin-game.com/243417-pos_thickbox/mafex-no202-captain-america-the-winter-soldier-captain-america-stealth-suit-ver-medicom-toy-.jpg",
+      "id": 6
+    },
+    {
+      "name": "MAFEX WINTER SOLDIER",
+      "price": "93",
+      "color": "GREY",
+      "category": "MAFEX",
+      "description": "Chiến binh mùa đông",
+      "image": "https://cdn.shopify.com/s/files/1/1367/5823/products/1_9f4103dc-fcd8-4a25-9c27-4c36526c1ae6.jpg?v=1675330292",
+      "id": 7
+    },
+    {
+      "name": "SHFIGUARTS SPIDER MAN intergrated",
+      "price": "70",
+      "color": "RED",
+      "category": "SHF",
+      "description": "Người Nhện Peter 1",
+      "image": "https://cdn.shopify.com/s/files/1/0521/2418/8872/products/x_btn64164-9_e_500x500.jpg?v=1665499311",
+      "id": 8
+    },
+    {
+      "name": "SHFIGUARTS DOCTOR STRANGE đa vũ trụ",
+      "price": "72",
+      "color": "RED",
+      "category": "SHF",
+      "description": "Phù Thủy Tối Thượng Đa Vũ Trụ Hỗn Loạn",
+      "image": "https://tamashiiweb.com/images/item/item_0000013886_6555dxpi_05.jpg",
+      "id": 9
+    },
+    {
+      "name": "MAFEX MERA",
+      "price": "75",
+      "color": "BLUE",
+      "category": "MAFEX",
+      "description": "Công Chúa Mera",
+      "image": "https://m.media-amazon.com/images/I/61BCwjbUE-L.jpg",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "uservu",
+      "email": "uservu@gmail.com",
+      "password": "uservu",
+      "id": 1
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "uservu@gmail.com",
+      "address": "Bình Chánh",
+      "contact": "User thằn genshin",
+      "totalPrice": 449,
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
